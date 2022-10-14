@@ -1,0 +1,6 @@
+dbname_high= (
+    description=
+      (address=(protocol=tcps)(port=1522)(host=adb.example.oraclecloud.com))
+      (connect_data=(service_name=dbname_high.oraclecloud.com))
+      (security=(ssl_server_cert_dn="CN=adb.oraclecloud.com,OU=Oracle US,O=Oracle Corporation,L=Redwood City,ST=California,C=US"))
+      )
