@@ -1,0 +1,2 @@
+dp import -storage FALSE -tableexists REPLACE -remapschemas SH=SHX -remaptablespaces USERS=DATA  -encryptionpassword 42redapples -dumpuri /o/MPACK_SQLSET_001.DMP -logfile MPACK_SQLSET_001.LOG
+

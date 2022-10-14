@@ -1,0 +1,2 @@
+dp export -compression ALL -encryption ALL  -reusefile TRUE -parallel 4 -schemas SHX  -encryptionpassword 42redapples -dumpfile MPACK_SCHEMA_001.DMP -logfile MPACK_SCHEMA_001.LOG
+

@@ -1,0 +1,2 @@
+dp export -compression ALL -encryption ALL  -reusefile TRUE -includelist TABLE -namelist TABLE=MPACK$$_SQLSET_STGTAB -encryptionpassword 42redapples -dumpfile MPACK_SQLSET_001.DMP -logfile MPACK_SQLSET_001.LOG
+
